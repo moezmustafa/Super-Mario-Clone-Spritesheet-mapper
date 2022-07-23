@@ -16,7 +16,9 @@ whilst using the SFML library to render graphics .
 
 ## Screenshots
 
-![Original Game](https://drive.google.com/file/d/1akf1MW__Arq3nBFt0fgqSLMOues1qCe0/view?usp=sharing)
-![My Clone ](https://drive.google.com/file/d/1Af9_ZvZX6A3uVL771QXOgIhq0fa9Bdr3/view?usp=sharing)
+<p align=center>
+ <img align='center' src="originalGame_ss.png" width="430"> 
+ <img align='center' src="marioclone_ss.png" width="430"> 
+</p>
 
 
