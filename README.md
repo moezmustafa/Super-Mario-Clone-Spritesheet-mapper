@@ -16,10 +16,13 @@ whilst using the SFML library to render graphics .
 
 ## Screenshots
 
-<p align=center>
 Original Game 
+<p align=center>
  <img align='center' src="images/originalGame_ss.png" width="430"> 
+</p>
+
 My Clone 
+<p align=center>
  <img align='center' src="images/marioclone_ss.png" width="430"> 
 </p>
 
