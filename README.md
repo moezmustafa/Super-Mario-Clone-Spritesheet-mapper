@@ -9,9 +9,18 @@ whilst using the SFML library to render graphics .
 
 
 
-## Authors
 
-- [@moezmustafa](https://www.github.com/moezmustafa)
+
+## Controls 
+### For Mario Clone
+* Move: Left/Right/Down
+* Crouch: Down
+* Jump: Z
+
+### For Sprite-Sheet Mapper
+*  Move Sprite-Sheet -> Up/Down/Left/Right
+*  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
+*  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
 
 
 ## Screenshots
@@ -26,4 +35,6 @@ My Clone
  <img align='center' src="images/marioclone_ss.png" width="430"> 
 </p>
 
+## Authors
 
+- [@moezmustafa](https://www.github.com/moezmustafa)
