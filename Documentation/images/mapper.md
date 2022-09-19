@@ -35,7 +35,7 @@ The highlighted 4 values are then used as a parameter input that goes in the obj
 ## Listener Fucntion
 
 <p float="left">
-  <img src="Documentation/../values.png" width="500" /> 
+  <img src="Documentation/../values.png" width="600" /> 
 </p>
 <br>
 In the code above the Object of the ‘ Texture ’ class is using a ‘loadFromFile( )’ function to open the file . 
