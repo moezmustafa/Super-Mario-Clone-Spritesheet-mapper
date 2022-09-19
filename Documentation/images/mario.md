@@ -1,13 +1,13 @@
 # Workings of the Mario Clone
 
 <p float="left">
-  <img src="images/mario1.png" width="400" /> 
+  <img src="Documentation/../../../images/mario1.png" width="400" /> 
 </p>
 
 <br>
 ## UML Diagram Of the Project
 <p float="left">
-  <img src="images/uml.png" width="400" /> 
+  <img src="Documentation/images/../../uml.png" width="400" /> 
 </p>
 
 <br>
@@ -24,11 +24,11 @@ hastle but overall it was rewarding .
 To do that I used a build-in class from the SFML , the class KEYBOARD 
 Takes in a bool  ‘IS PRESSED’  with is triggered by another instance of the KEYBOARD class that takes a bool that takes in a defined key from the keyboard as a parameter . 
 <p float="left">
-  <img src="images/key1.png" width="300" /> 
+  <img src="Documentation/images/../../key1.png" width="300" /> 
 </p>
 Similar when applied with negation changes the values of bool that updates the player state .
 <p float="left">
-  <img src="images/key2.png" width="400" /> 
+  <img src="Documentation/../key2.png" width="400" /> 
 </p>
 
 <br>
@@ -41,10 +41,10 @@ It has Update function that takes in the bool function .
 And  
 Ingerited object from the PlatformClass 
 <p float="left">
-  <img src="images/key_in1.png" width="400" /> 
+  <img src="Documentation/../key_in1.png" width="400" /> 
 </p>
 <p float="left">
-  <img src="images/key_in2.png" width="400" /> 
+  <img src="Documentation/../key_in2.png" width="400" /> 
 </p>
 
 <br>
@@ -52,7 +52,7 @@ Ingerited object from the PlatformClass
 ## Object to Object Collison Function 
 The PlatformClass is inhterited to the PlayerClass , so that  PlayerObject iamge can access the coordinates of the platform image objects .
 <p float="left">
-  <img src="images/coll1.png" width="400" /> 
+  <img src="Documentation/../coll1.png" width="400" /> 
 </p>
 
 
