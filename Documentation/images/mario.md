@@ -5,7 +5,10 @@
 </p>
 
 <br>
+
 ## UML Diagram Of the Project
+<br>
+
 <p float="left">
   <img src="Documentation/images/../../uml.png" width="400" /> 
 </p>
@@ -17,6 +20,10 @@ I have use the SFML (Simple and Fast Multi-media Library) . The reason for selec
 
 Setting it up was a
 hastle but overall it was rewarding . 
+
+<br>
+
+The character and the graphics are rendered 
 
 <br>
 
