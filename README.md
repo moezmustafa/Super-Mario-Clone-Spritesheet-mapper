@@ -15,9 +15,34 @@ library.
 
 - [@moezmustafa](https://www.github.com/moezmustafa)🚀
 
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+## Problems I Solved 
+-	Selecting and Setting up Graphics for the project
+-	Taking input from keyboard 
+-	Mapping keys to control object
+-	Objects collision
+-	Gravity Physics 
+-	Rendering Cropped images from a Tile Set .
+-	Controlled , Mapping and Drawing Graphic Objects .
+
+## How it works 
+
+ I have use the SFML (Simple and Fast Multi-media Library) . The reason for selection was its emphasis on OOP concepts and the configurable DLL (dynamically linked libraries) .
+
+ <p float="left">
+  <img src="images/mario1.png" width="300" />
+</p>
+
+<p float="left">
+  <img src="images/uml.png" width="400" />
+
+</p>
 
 
-## Documentation
 
 
 
