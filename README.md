@@ -29,22 +29,32 @@ library.
 -	Rendering Cropped images from a Tile Set .
 -	Controlled , Mapping and Drawing Graphic Objects .
 
+
+
 ## How it works 
 
- I have use the SFML (Simple and Fast Multi-media Library) . The reason for selection was its emphasis on OOP concepts and the configurable DLL (dynamically linked libraries) .
+View the documentations : 
+- [Super Mario Clone](https://linktodocumentation)
+- [Sprite Mapping Engine](https://linktodocumentation)
 
- <p float="left">
-  <img src="images/mario1.png" width="300" />
-</p>
-
+## Basic Controls
+### For Mario Clone
 <p float="left">
-  <img src="images/uml.png" width="400" />
-
+  <img src="images/mario1.png" width="200" />
 </p>
+<br>
+* Move: Left/Right/Down
+* Crouch: Down
+* Jump: Z
 
-
-
-
+### For Sprite-Sheet Mapper
+<p float="left">
+  <img src="images/mapper1.png" width="400" /> 
+</p>
+<br>
+*  Move Sprite-Sheet -> Up/Down/Left/Right
+*  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
+*  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
 
 
 
