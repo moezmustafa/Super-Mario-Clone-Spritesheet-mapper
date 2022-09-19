@@ -6,8 +6,8 @@ library.
 
 <!-- sample images of the project -->
 <p float="left">
-  <img src="images/mario1.png" width="100" />
-  <img src="images/mapper1.png" width="100" /> 
+  <img src="images/mario1.png" width="400" />
+  <img src="images/mapper1.png" width="400" /> 
 </p>
 
 
