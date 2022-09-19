@@ -48,10 +48,10 @@ It has Update function that takes in the bool function .
 And  
 Ingerited object from the PlatformClass 
 <p float="left">
-  <img src="Documentation/../key_in1.png" width="500" /> 
+  <img src="Documentation/../key_in1.png" width="600" /> 
 </p>
 <p float="left">
-  <img src="Documentation/../key_in2.png" width="500" /> 
+  <img src="Documentation/../key_in2.png" width="600" /> 
 </p>
 
 <br>
@@ -59,7 +59,7 @@ Ingerited object from the PlatformClass
 ## Object to Object Collison Function 
 The PlatformClass is inhterited to the PlayerClass , so that  PlayerObject iamge can access the coordinates of the platform image objects .
 <p float="left">
-  <img src="Documentation/../coll1.png" width="500" /> 
+  <img src="Documentation/../coll1.png" width="600" /> 
 </p>
 
 
