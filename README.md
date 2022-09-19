@@ -34,8 +34,8 @@ library.
 ## How it works 
 
 View the documentations : 
-- [Super Mario Clone](https://linktodocumentation)
-- [Sprite Mapping Engine](https://linktodocumentation)
+- [Super Mario Clone](https://github.com/moezmustafa/Super-Mario-Clone-Spritesheet-mapper/blob/master/Documentation/images/mario.md)
+- [Sprite Mapping Engine](https://github.com/moezmustafa/Super-Mario-Clone-Spritesheet-mapper/blob/master/Documentation/images/mapper.md)
 
 ## Basic Controls
 ### For Mario Clone
@@ -43,18 +43,18 @@ View the documentations :
   <img src="images/mario1.png" width="200" />
 </p>
 <br>
-* Move: Left/Right/Down
-* Crouch: Down
-* Jump: Z
+- Move: Left/Right/Down
+- Crouch: Down
+- Jump: Z
 
 ### For Sprite-Sheet Mapper
 <p float="left">
-  <img src="images/mapper1.png" width="400" /> 
+  <img src="images/mapper1.png" width="200" /> 
 </p>
 <br>
-*  Move Sprite-Sheet -> Up/Down/Left/Right
-*  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
-*  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
+-  Move Sprite-Sheet -> Up/Down/Left/Right
+-  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
+-  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
 
 
 
