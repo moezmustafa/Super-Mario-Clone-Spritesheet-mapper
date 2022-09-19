@@ -57,6 +57,7 @@ View the documentations :
 -  Move Sprite-Sheet -> Up/Down/Left/Right
 -  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
 -  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
+-  Spacebar -> To output the X and Y values.
 
 
 
