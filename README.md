@@ -43,6 +43,7 @@ View the documentations :
   <img src="images/mario1.png" width="200" />
 </p>
 <br>
+
 - Move: Left/Right/Down
 - Crouch: Down
 - Jump: Z
@@ -52,6 +53,7 @@ View the documentations :
   <img src="images/mapper1.png" width="200" /> 
 </p>
 <br>
+
 -  Move Sprite-Sheet -> Up/Down/Left/Right
 -  Move the Red-Slicer -> W(up)/S(down)/A(left)/D(right)
 -  Zooming Sprite-Sheet  ->  Z(zoom in) / X(zoom out)
