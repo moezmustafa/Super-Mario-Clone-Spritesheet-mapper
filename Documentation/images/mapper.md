@@ -12,6 +12,7 @@ that slices the Sprite Sheet.
 
 <br>
 This program is used to split individual images from a single tileset .png image file 
+
 <br>
 <p float="left">
   <img src="Documentaiton/../mapper2.png" width="400" /> 
