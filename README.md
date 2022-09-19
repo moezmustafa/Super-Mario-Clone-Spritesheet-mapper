@@ -1,4 +1,62 @@
 
+# Mario Clone and Spritesheet Mapping Engine
+
+This project is coded in C++ and makes the use of the SFML 
+library.
+
+<!-- sample images of the project -->
+<p float="left">
+  <img src="images/mario1.png" width="100" />
+  <img src="images/mapper1.png" width="100" /> 
+</p>
+
+
+## Authors
+
+- [@moezmustafa](https://www.github.com/moezmustafa)🚀
+
+
+
+## Documentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
 # Super Mario Clone & Sprite-Sheet Mapper
 
 A clone of the classic SNES game , coded in C++ , written in OOP
@@ -37,4 +95,4 @@ My Clone
 
 ## Authors
 
-- [@moezmustafa](https://www.github.com/moezmustafa)
+- [@moezmustafa](https://www.github.com/moezmustafa) -->
