@@ -6,7 +6,9 @@ library.
 
 <!-- sample images of the project -->
 <p float="left">
+  Mario Clone 
   <img src="images/mario1.png" width="400" />
+  Sprite Mapping GUI Tool
   <img src="images/mapper1.png" width="400" /> 
 </p>
 
@@ -37,7 +39,7 @@ library.
 
 View the documentations : 
 - [Super Mario Clone](https://github.com/moezmustafa/Super-Mario-Clone-Spritesheet-mapper/blob/master/Documentation/images/mario.md)
-- [Sprite Mapping Engine](https://github.com/moezmustafa/Super-Mario-Clone-Spritesheet-mapper/blob/master/Documentation/images/mapper.md)
+- [Sprite Mapping GUI Tool](https://github.com/moezmustafa/Super-Mario-Clone-Spritesheet-mapper/blob/master/Documentation/images/mapper.md)
 
 ## Basic Controls
 ### For Mario Clone
