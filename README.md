@@ -6,10 +6,11 @@ library.
 
 <!-- sample images of the project -->
 <p float="left">
-  Mario Clone 
+
   <img src="images/mario1.png" width="400" />
-  Sprite Mapping GUI Tool
+
   <img src="images/mapper1.png" width="400" /> 
+  
 </p>
 
 
