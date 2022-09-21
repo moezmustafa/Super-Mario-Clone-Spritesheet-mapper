@@ -1,5 +1,5 @@
 
-# Workings Sprite Mapping Engine
+# Workings Sprite Mapping GUI Tool
 
 <p float="left">
   <img src="documentation/../mapper1.png" width="400" /> 
